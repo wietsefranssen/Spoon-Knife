@@ -1,5 +1,7 @@
 ### Well hello there!
 
+[![Join the chat at https://gitter.im/wietsefranssen/Spoon-Knife](https://badges.gitter.im/wietsefranssen/Spoon-Knife.svg)](https://gitter.im/wietsefranssen/Spoon-Knife?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This repository is meant to provide an example for *forking* a repository on GitHub.
 
 Creating a *fork* is producing a personal copy of someone else's project. Forks act as a sort of bridge between the original repository and your personal copy. You can submit *Pull Requests* to help make other people's projects better by offering your changes up to the original project. Forking is at the core of social coding at GitHub.
